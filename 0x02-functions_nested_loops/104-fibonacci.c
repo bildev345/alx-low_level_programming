@@ -17,7 +17,7 @@ int main(void)
 	prevTwo = 1;
 	counter = 0;
 
-	while (counter < 96)
+	while (counter < 95)
 	{
 		sum = prevOne + prevTwo;
 		printf("%li, ", sum);
