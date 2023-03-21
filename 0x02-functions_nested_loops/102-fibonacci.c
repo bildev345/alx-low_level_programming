@@ -10,7 +10,7 @@ int main(void)
 {
 	long int sum;
 	long int prevOne, prevTwo;
-	int count;
+	int counter;
 
 	sum = 0;
 	prevOne = 0;
