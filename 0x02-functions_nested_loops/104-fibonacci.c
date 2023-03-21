@@ -19,14 +19,14 @@ int main(void)
 
 	while (counter < 97)
 	{
-		sum = prevOne+ ",  " + prevTwo;
+		sum = prevOne + prevTwo;
 		printf("%li, ", sum);
 		prevOne = prevTwo;
 		prevTwo = sum;
 
 		counter++;
 	}
-	sum = prevOne + ",  " + prevTwo;
+	sum = prevOne + prevTwo;
 	printf("%li\n", sum);
 
 	return (0);
