@@ -1,1 +1,1 @@
-this is a repository of c projects
+this is debugging proejct
